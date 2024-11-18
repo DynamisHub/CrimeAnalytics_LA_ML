@@ -1,0 +1,9 @@
+# Existing rules
+__pycache__/
+*.pyc
+.DS_Store
+*.pkl
+
+*.png
+
+
